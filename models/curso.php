@@ -7,7 +7,7 @@ class Curso{
   private $data = [
     [
       "id"    => 1,
-      "nombre"=> "AutoCAD",
+      "nombre"=> "Inventor",
       "nivel" => "Básico",
       "precio"=> 300,
       "horas" => 30
