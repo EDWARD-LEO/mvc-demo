@@ -1,0 +1,38 @@
+{
+  "infopersonal" : {
+    "datos" : {
+      "apellidos" : "Francia Minaya",
+      "nombres"   : "Jhon Edward",
+      "edad"      : 38,
+      "telefono"  : "956834915"
+    },
+    "mifamilia" : {
+      "esposa"    : "Nora",
+      "hijos"     : ["Edward", "Leonardo"],
+      "hermanas"  : ["Mirian", "Jhennifer", "Edith", "Brenda"]
+    }
+  },
+  "formacion": {
+    "primaria"    : ["IEP San José"],
+    "secundaria"  : ["JPB"],
+    "superior"    : ["SENATI"]
+  },
+  "habilidades": {
+    "deportivas"  : {
+      "futbol"    : ["Equipo A", "Equipo B", "Equipo C"],
+      "karate"    : ["Cinta verde", "Cinta marron", "Cinta negra"]
+    },
+    "sociales"    : {
+      "intrapersonales" : ["autocontrol", "autoestima", "resilencia"],
+      "interpersonales" : ["liderazgo", "trabajo en equipo"]
+    },
+    "profesional" : {
+      "programador"   : {
+        "lenguajes"   : ["PHP", "C++", "Python", "JS", "CSS", "SQL"],
+        "basedatos"   : ["MySQL", "MS SQL Server", "Oracle DB", "SQLite"],
+        "devmovil"    : ["ReactNative", "Kotlin", "Java", "Xamarin"]
+      },
+      "docente"       : ["Institución 1", "Institución 2", "SENATI"]
+    }
+  }
+}
